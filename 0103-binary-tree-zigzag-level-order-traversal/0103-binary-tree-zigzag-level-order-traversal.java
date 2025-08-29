@@ -14,34 +14,41 @@
  * }
  */
 class Solution {
-    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<>();
-        if (root == null) return result;
 
-        Deque<TreeNode> deque = new LinkedList<>();
-        deque.add(root);
-        boolean reverse = false;
+    public static void zigzagHelper(TreeNode root,List<List<Integer>> result){
+        if(root == null)return;
 
-        while (!deque.isEmpty()) {
-            int size = deque.size();
-            List<Integer> level = new ArrayList<>(size);
+        Queue<TreeNode> memory = new LinkedList<>();
+        memory.offer(root);
+        int flag = 0;
 
-            for (int i = 0; i < size; i++) {
-                if (!reverse) {
-                    TreeNode node = deque.pollFirst();
-                    level.add(node.val);
-                    if (node.left != null) deque.addLast(node.left);
-                    if (node.right != null) deque.addLast(node.right);
-                } else {
-                    TreeNode node = deque.pollLast();
-                    level.add(node.val);
-                    if (node.right != null) deque.addFirst(node.right);
-                    if (node.left != null) deque.addFirst(node.left);
-                }
+        while(!memory.isEmpty()){
+            int size = memory.size();
+            List<Integer> ans = new ArrayList<Integer>();
+
+            for(int i=0;i<size;i++){
+                TreeNode temp = memory.poll();
+
+                ans.add(temp.val);
+
+                if(temp.left != null)memory.offer(temp.left);
+                if(temp.right != null)memory.offer(temp.right);
             }
-            reverse = !reverse;
-            result.add(level);
+
+            if(flag == 0) result.add(ans);
+            else {
+                Collections.reverse(ans);
+                result.add(ans);
+            }
+            flag = 1 - flag;
         }
+    }
+
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        
+        List<List<Integer>> result = new ArrayList<>();
+        zigzagHelper(root,result);
+
         return result;
     }
 }
