@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
