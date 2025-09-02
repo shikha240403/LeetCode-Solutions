@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0383-ransom-note](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
@@ -140,10 +141,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1039-find-the-town-judge](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Graph
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
