@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1039-find-the-town-judge](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shikha240403/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
