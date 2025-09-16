@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
