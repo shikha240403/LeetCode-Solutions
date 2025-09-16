@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1039-find-the-town-judge](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
+| [1293-three-consecutive-odds](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 ## Greedy
 |  |
 | ------- |
