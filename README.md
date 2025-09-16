@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1039-find-the-town-judge](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Greedy
 |  |
@@ -138,9 +139,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1039-find-the-town-judge](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Graph
@@ -151,5 +154,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
