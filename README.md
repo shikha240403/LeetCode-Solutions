@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Simulation
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
