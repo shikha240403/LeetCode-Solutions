@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0861-flipping-an-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 ## Number Theory
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0861-flipping-an-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [1039-find-the-town-judge](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 ## Greedy
@@ -171,4 +174,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0861-flipping-an-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
