@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Simulation
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
