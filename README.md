@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Simulation
