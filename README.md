@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/shikha240403/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1039-find-the-town-judge](https://github.com/shikha240403/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Graph
